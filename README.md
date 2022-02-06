@@ -4,7 +4,6 @@
   <img alt="image" src="https://user-images.githubusercontent.com/90834830/152684525-cc559786-eb96-439a-a78d-72b4c362c3af.png">
 </p>
 
-<p>
 # “To keep the body in good health is a duty otherwise we shall not be able to keep our mind strong and clear.”- Buddha.
 
 Keeping this saying in mind which was given by Lord Buddha himself, our topic – ‘Health Tracker’ focuses on one of the most essential things in our life – health. 
@@ -65,7 +64,13 @@ Our Program can be improved further by incorporating sensors along with Machine 
 
 This kind of a program can be widely used in the Health Care Sector in order to reduce manual load for data input and analysis in Hospitals. This can also play a role in combating the problem of shortage of Doctors (required for Basic Check-up in this case) in India.
 
+<br>
+<br>
 
+# Team Members
+
+<p align="center">
+<img alt="image" src="https://user-images.githubusercontent.com/90834830/152685621-e7ad5b8e-6924-416e-8ec4-aa2b9663a153.png">
 </p>
 
 
